@@ -21,3 +21,9 @@ ClearTemp is a Python script designed to automate the cleanup of temporary files
   ```env
   EMAIL_ADDRESS=your_email@example.com
   EMAIL_PASSWORD=your_email_password
+
+
+## ScreenShot of Email
+
+<img width="1587" height="547" alt="image" src="https://github.com/user-attachments/assets/c8f45d75-54e6-44f3-8540-9d1641f0d01b" />
+
